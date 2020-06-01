@@ -1,4 +1,4 @@
-## City Weather Api
+## Day Greetings to Users
 
 The preview of the application is given below:
 
