@@ -1,5 +1,5 @@
 ## Day Greetings to Users
 
-The preview of the application is given below:
+This application welcomes us with the greeting message at the time that you are checking this application
 
 <img src="src/images/default.jpg" />
